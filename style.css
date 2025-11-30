@@ -15,6 +15,18 @@
 .pres{
   margin-top: 250px;
 }
-.formulaire{
-  margin-top: 300px;
+.class1{
+  margin-top: 250px;
+}
+#id1{
+font-family: "poppins", sans-serif;
+font-size: x-large;
+color:darkgoldenrod;
+margin-top: 270px;
+}
+#id2{
+ font-family: "poppins", sans-serif; 
+ color:darkgoldenrod;
+ font-size: x-large;
+ margin-left: 100px;
 }
